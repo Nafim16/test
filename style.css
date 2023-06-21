@@ -9,6 +9,7 @@ body{
     padding: 50px;
 
 }
+
 #transaction-area{
     display: none;
 }
@@ -17,26 +18,31 @@ body{
     background-color: slateblue;
     box-shadow: 5px 5px 10px slateblue;
 }
+
 .withdraw{
     background-color: lightsalmon;
     box-shadow: 5px 5px 10px lightsalmon;
 }
+
 .balance{
     background-color: orange;
     box-shadow: 5px 5px 10px orange;
 }
+
 .status{
     padding: 20px;
     border-radius: 10px;
     margin: 20px;
     color: aliceblue;
 }
+
 .deposit-area{
     margin-top: 50px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
     padding: 50px;
 }
+
 .withdraw-area{
     margin-top: 50px;
     border-radius: 10px;
